@@ -1,1 +1,0 @@
-{'batchcomplete': '', 'query': {'normalized': [{'from': 'Rajkumar_(actor)', 'to': 'Rajkumar (actor)'}], 'pages': {'5408951': {'pageid': 5408951, 'ns': 0, 'title': 'Rajkumar (actor)'}}}}
